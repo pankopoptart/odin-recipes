@@ -1,0 +1,25 @@
+body {
+    background-color: #FAF0CA;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0D3B66;
+    font-weight: 1000;
+    font-size: 50px;
+    text-align: center;
+    width: 655px;
+}
+
+ul {
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+    color: #EE964B;
+}
+
+img {
+    width: 1000px;
+}
