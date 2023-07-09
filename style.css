@@ -11,7 +11,34 @@ h1 {
     width: 100%;
 }
 
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #cf6202;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 25px;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #cf6202;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+p {
+    display: block;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+}
+
 .recipe-list {
+    display: block;
     list-style: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
@@ -20,14 +47,27 @@ h1 {
     color: #EE964B;
 }
 
-img {
-    width: 400px;
-    height: auto;
+.ingredients,
+.recipe-steps {
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 25px;
 }
 
-.center {
+div {
+    border-style: ridge;
+    border-color: #0D3B66;
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 30%;
 }
